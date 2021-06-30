@@ -1,0 +1,21 @@
+.header-container {
+display: flex;
+justify-content: space-around;
+margin: 60px 230px 60px 30px;
+}
+
+.header-logo{
+    margin: -15px 650px 0px 0px;
+    font-size: 30px;
+}
+
+.header-text,
+.header-get-quote{
+    font-size: 14px;
+}
+
+.header-logo:hover,
+.header-text:hover,
+.header-get-quote:hover{
+    color: #BA6327;
+}
