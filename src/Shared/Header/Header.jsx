@@ -13,7 +13,7 @@ export default function Header() {
                 <Link to="/about" id="none"><div className="header-text">ABOUT US</div></Link>
                 <Link to="/services" id="none"><div className="header-text">SERVICES</div></Link>
                 <Link to="/contact" id="none"><div className="header-text">CONTACT</div></Link>
-                <Link to="/get-hired" id="none"><div className="header-text">GET HIRED</div></Link>
+                <Link to="/get-hired" id="none"><div className="header-text">BECOME A DRIVER</div></Link>
                 <Link to="/get-quote" id="none"><div className="header-get-quote">GET QUOTE</div></Link>
             </div>
 

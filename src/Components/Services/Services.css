@@ -1,0 +1,20 @@
+.services-main-container {
+  /* background-color: #333333; */
+  padding: 3%;
+}
+
+.services-boxes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.services-box-right {
+  width: 700px;
+  border-radius: 20px;
+}
+
+.services-box-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

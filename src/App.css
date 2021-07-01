@@ -2,11 +2,20 @@
   text-align: center;
 }
 
-#none{
+#none {
   text-decoration: none;
   color: black;
 }
 
-body{
-  background-color: #EAEAEA;
+body {
+  background-color: #eaeaea;
+}
+
+.paragraph {
+  color: #717171;
+  /* border-bottom: 5px solid #FBD245;
+  padding-bottom: 15px; */
+  margin-bottom: 50px;
+  background-color: #333333;
+  padding: 3%;
 }
