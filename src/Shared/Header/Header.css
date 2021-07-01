@@ -1,7 +1,23 @@
+.header {
+  background-image: url('../../Assets//1.jpg') ;
+  width: 100%;
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: 50% -25px;
+  background-position-x: 50%;
+  background-position-y: -25px;
+  position: relative;
+}
+
 .header-container {
   display: flex;
   justify-content: space-around;
-  margin: 50px 230px 50px 30px;
+  margin: 0px 230px 50px 30px;
+  padding-top: 2%;
+  color: white;
 }
 
 /* .header-logo {
@@ -13,12 +29,13 @@
   margin: -15px 650px 0px 0px;
   font-size: 25px;
   font-weight: 400;
+  color: #2a94d0;
 }
 
 .header-text,
 .header-get-quote {
   font-size: 14px;
-  
+  color: #eef3e3;
 }
 
 .header-text:hover,

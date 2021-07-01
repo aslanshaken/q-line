@@ -1,0 +1,32 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.about-main-container {
+  background-color: #333333;
+  color: #717171;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0% 10% 5% 10%;
+}
+
+.about-img {
+  width: 500px;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1%;
+  font-size: 22px;
+  color: #a5a59e;
+}

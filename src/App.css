@@ -12,10 +12,8 @@ body {
 }
 
 .paragraph {
-  color: #717171;
-  /* border-bottom: 5px solid #FBD245;
-  padding-bottom: 15px; */
+  border-bottom: 5px solid #FBD245;
   margin-bottom: 50px;
-  background-color: #333333;
-  padding: 3%;
+  padding-bottom: 1%;
+  color: #2A94D0;
 }
