@@ -1,0 +1,19 @@
+.main-container {
+  display: flex;
+}
+.main-left {
+  width: 70%;
+}
+
+.main-right {
+  box-shadow: 15px 15px 15px gray;
+  padding: 2%;
+}
+
+.main-right li{
+    font-size: 25px;
+  }
+
+.main-logo{
+    width: 300px;
+}
