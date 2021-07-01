@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 View final- http://q-line.us
-View unfinished- https://q-line.netlify.app/services
+View unfinished- https://q-line.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
